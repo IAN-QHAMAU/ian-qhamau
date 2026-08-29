@@ -129,26 +129,28 @@ What I care about is not simply making something work.I want to understand **why
 # GitHub Activity
 
 <p align="center">
+  <img# GitHub Activity
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ian-qhamau&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true"
+    src="https://github-stats-extended-frontend-nine-eosin.vercel.app/api?username=ian-qhamau&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="Ian's GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ian-qhamau&amp;theme=tokyonight&amp;hide_border=true"
+    src="https://streak-stats.demolab.com?user=ian-qhamau&theme=tokyonight&hide_border=true"
     alt="Ian's GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ian-qhamau&amp;theme=tokyo-night&amp;hide_border=true"
-    alt="Ian's GitHub Activity Graph"
+    src="https://raw.githubusercontent.com/ian-qhamau/ian-qhamau/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
   />
 </p>
-
 ## Beyond Tech
 
 When I'm not coding, I like playing musical instruments.
