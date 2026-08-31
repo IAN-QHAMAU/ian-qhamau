@@ -151,6 +151,7 @@ What I care about is not simply making something work.I want to understand **why
     alt="Snake animation"
   />
 </p>
+
 ## Beyond Tech
 
 When I'm not coding, I like playing musical instruments.
