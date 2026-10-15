@@ -165,7 +165,7 @@ I'm working on closing that gap.
 # Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/ian-kamau-ai](https://www.linkedin.com/in/ian-kamau-ai)
-- Portfolio: [https://ian-qhamau.github.io/my-Portfolio/](https://ian-qhamau.github.io/my-Portfolio/)
+- Portfolio: [https://ian-kamau-portfolio.vercel.app](https://ian-kamau-portfolio.vercel.app)
 - Email: [kamauian118@gmail.com](mailto:kamauian118@gmail.com)
 
 
