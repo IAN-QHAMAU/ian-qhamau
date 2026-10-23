@@ -76,6 +76,11 @@ What I care about is not simply making something work.I want to understand **why
 </p>
 
 <p align="center">
+  <b>🛡️ Cybersecurity</b><br />
+  Network Security &nbsp;·&nbsp; Threat Detection &nbsp;·&nbsp; Secure Practices
+</p>
+
+<p align="center">
   <sub>Also: Paystack payments · third-party APIs · domain and deployment setup · UX/UI design</sub>
 </p>
 
