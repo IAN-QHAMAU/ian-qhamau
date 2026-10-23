@@ -27,109 +27,61 @@ What I care about is not simply making something work.I want to understand **why
 
 # What I'm Interested In
 
-### 📊 Data Science
-### 🤖 Artificial Intelligence
-### 🛡️ Cybersecurity
-### 🌐 Web Development
+<table align="center">
+  <tr>
+    <td align="center" width="190">📊<br /><b>Data Science</b></td>
+    <td align="center" width="190">🤖<br /><b>Artificial Intelligence</b></td>
+    <td align="center" width="190">🛡️<br /><b>Cybersecurity</b></td>
+    <td align="center" width="190">🌐<br /><b>Web Development</b></td>
+  </tr>
+</table>
+
 ---
 
 # Technical Stack
 
-## Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+<p align="center">
+  <img src="assets/stack/python.svg" width="48" alt="Python" title="Python" />
+  <img src="assets/stack/r.svg" width="48" alt="R" title="R" />
+  <img src="assets/stack/javascript.svg" width="48" alt="JavaScript" title="JavaScript" />
+  <img src="assets/stack/typescript.svg" width="48" alt="TypeScript" title="TypeScript" />
+  <img src="assets/stack/c.svg" width="48" alt="C" title="C" />
+  <img src="assets/stack/pandas.svg" width="48" alt="Pandas" title="Pandas" />
+  <img src="assets/stack/numpy.svg" width="48" alt="NumPy" title="NumPy" />
+  <img src="assets/stack/scikit-learn.svg" width="48" alt="scikit-learn" title="scikit-learn" />
+  <img src="assets/stack/matplotlib.svg" width="48" alt="Matplotlib" title="Matplotlib" />
+  <img src="assets/stack/seaborn.svg" width="48" alt="Seaborn" title="Seaborn" />
+  <img src="assets/stack/jupyter.svg" width="48" alt="Jupyter" title="Jupyter" />
 </p>
 
-
-## Data & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="Matplotlib" />
+<p align="center">
+  <img src="assets/stack/html.svg" width="48" alt="HTML5" title="HTML5" />
+  <img src="assets/stack/css.svg" width="48" alt="CSS3" title="CSS3" />
+  <img src="assets/stack/nextjs.svg" width="48" alt="Next.js" title="Next.js" />
+  <img src="assets/stack/tailwind.svg" width="48" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="assets/stack/streamlit.svg" width="48" alt="Streamlit" title="Streamlit" />
+  <img src="assets/stack/supabase.svg" width="48" alt="Supabase" title="Supabase" />
+  <img src="assets/stack/postgresql.svg" width="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/stack/sqlite.svg" width="48" alt="SQLite" title="SQLite" />
 </p>
 
-
-## Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
+<p align="center">
+  <img src="assets/stack/ubuntu.svg" width="48" alt="Ubuntu" title="Ubuntu" />
+  <img src="assets/stack/git.svg" width="48" alt="Git" title="Git" />
+  <img src="assets/stack/github.svg" width="48" alt="GitHub" title="GitHub" />
+  <img src="assets/stack/vscode.svg" width="48" alt="VS Code" title="VS Code" />
+  <img src="assets/stack/vercel.svg" width="48" alt="Vercel" title="Vercel" />
+  <img src="assets/stack/canva.svg" width="48" alt="Canva" title="Canva" />
+  <img src="assets/stack/google.svg" width="48" alt="Google Workspace" title="Google Workspace" />
 </p>
 
-
-## Databases & Backend Services
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+<p align="center">
+  <sub>Also: Paystack payments · third-party APIs · domain and deployment setup · UX/UI design</sub>
 </p>
-
-
-## Cybersecurity & Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-1F6FEB?style=for-the-badge" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Network%20Security-238636?style=for-the-badge" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-B62324?style=for-the-badge" alt="Threat Detection" />
-  <img src="https://img.shields.io/badge/Secure%20Practices-6F42C1?style=for-the-badge" alt="Secure Practices" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-</p>
-
-
-## Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-</p>
-
-
-## Deployment & Hosting
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
-</p>
-
-
-## Design & Productivity
-
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Workspace" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/UX%20Design-FF61F6?style=for-the-badge" alt="UX Design" />
-</p>
-
-
-## Integrations
-
-- 💳 Paystack payment integrations
-- 🔌 Third party API integrations
-- 🗄️ Database backed applications
-- 🌐 Domain and deployment configuration
-- 🎨 UX and UI design
-
-
----
-
 
 ---
 
 # GitHub Activity
-
-<p align="center">
-  <img# GitHub Activity
 
 <p align="center">
   <img
