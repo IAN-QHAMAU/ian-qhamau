@@ -156,7 +156,7 @@ What I care about is not simply making something work.I want to understand **why
 
 When I'm not coding, I like playing musical instruments.
 
-There is sometimes a noticeable difference between the musician I imagine I am and the musician that appears when I actually touch the instrument, especially the piano.
+There is sometimes a noticeable difference between the musician I imagine I am and the musician that appears when I actually touch the instrument, especially the guitar.
 
 I'm working on closing that gap.
 
